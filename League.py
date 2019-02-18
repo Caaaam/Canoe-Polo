@@ -2,7 +2,7 @@
 
 # These will be inputted from a spreadsheet
 
-Team_List = ['Team 1', 'Team 2', 'Team 3', 'Team 5', 'Team 6', 'Team 7', 'Team 8']
+Team_List = ['Black', 'Yellow', 'Blue', 'White']
 Group_Size = 4
 
 # --------------------- Group Sorting ------------------------
