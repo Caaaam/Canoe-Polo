@@ -12,7 +12,6 @@ Rhys = Player('Rhys',85)
 Cameron = Player('Cameron',70)
 Barra = Player('Barra',50)
 Devon = Player('Devon',40)
-Louis = Player('Louis',5)
 
 ###### Player Inputs ######
 
