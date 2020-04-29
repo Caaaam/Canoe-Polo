@@ -6,12 +6,10 @@ class Player:
     def __init__(self, name,score):
         self.name = name
         self.score = score
+        
+Player1 = Player('Player1',100)
+Player2 = Player('Player2',80)
 
-Connor = Player('Connor',100)
-Rhys = Player('Rhys',85)
-Cameron = Player('Cameron',70)
-Barra = Player('Barra',50)
-Devon = Player('Devon',40)
 
 ###### Player Inputs ######
 
